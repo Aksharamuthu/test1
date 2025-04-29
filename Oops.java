@@ -20,7 +20,11 @@ public  class Oops {
 	public void studentlocation() {
 		System.out.println("tirunelveli");	
 	}
+	
 	public void studentpassedout() {
+		System.out.println(2019);		
+	}
+	public void studentjoining() {
 		System.out.println(2019);		
 	}
 	public static void main(String[] args) {
