@@ -10,6 +10,9 @@ public static void main(String[] args) {
 	   i[2]=15;
 	   i[3]=20;
 	   i[4]=25;
+	   i[5]=30;
+	   i[6]=35;
+	
 	   
 	   
 	   System.out.println(i[0]);
